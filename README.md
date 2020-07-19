@@ -13,6 +13,10 @@ Several utilities are provided in [reco_utils](reco_utils) to support common tas
 
 For a more detailed overview of the repository, please see the documents at the [wiki page](https://github.com/microsoft/recommenders/wiki/Documents-and-Presentations).
 
+## What's New
+
+<mark>some text </mark>
+
 ## Getting Started
 
 Please see the [setup guide](SETUP.md) for more details on setting up your machine locally, on a [data science virtual machine (DSVM)](https://azure.microsoft.com/en-gb/services/virtual-machines/data-science-virtual-machines/) or on [Azure Databricks](SETUP.md#setup-guide-for-azure-databricks).
